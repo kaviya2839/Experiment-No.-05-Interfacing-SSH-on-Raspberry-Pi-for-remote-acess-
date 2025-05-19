@@ -1,4 +1,4 @@
-# Experiment-No.-05-Interfacing-SSH-on-Raspberry-Pi-for-remote-access-
+# Experiment No.05 Interfacing SSH on Raspberry Pi for remote access
 ### NAME : KAVIYA SHREE S
 ### ROLL NO: 212222110018
 ### DEPARTMENT: CSE(IoT)
